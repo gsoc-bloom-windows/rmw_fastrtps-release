@@ -1,4 +1,0 @@
-Source: ros-dashing-rmw-fastrtps-shared-cpp
-Version: 0.7.4
-Description: Code shared on static and dynamic type support of rmw_fastrtps_cpp.
-Build-Depends:
